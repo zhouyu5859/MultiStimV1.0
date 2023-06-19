@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Image">
+        <file>image/stim.png</file>
+        <file>image/stimicon.png</file>
+    </qresource>
+</RCC>
